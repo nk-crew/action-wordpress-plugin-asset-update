@@ -1,4 +1,5 @@
 > This fork is unilizes this problem - https://github.com/10up/action-wordpress-plugin-asset-update/issues/36
+> 
 > It just returns 1 every time, and there is no GitHub Action error.
 
 ---
